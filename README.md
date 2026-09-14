@@ -2,6 +2,8 @@
 
 A database-backed inventory-management web application developed for **Café Fantini Canada Inc.**, a business-to-business distributor of coffee beans, coffee capsules, and juices. The system centralizes inventory information, makes stock easier to manage, and provides role-based access for the business owner and secretary.
 
+![Café Fantini login screen](images/cafe-fantini-login.jpg)
+
 ## Live Demo
 
 **Application:** [https://cafefantinidb.web.app/](https://cafefantinidb.web.app/)
