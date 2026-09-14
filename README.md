@@ -89,7 +89,3 @@ I primarily contributed to the **front-end development** and helped lead the pro
 ## Academic Context
 
 This system was created as a Vanier College System Development project for a real business client. The project included client interviews, requirements analysis, user stories, usability testing, UML diagrams, database design, prototyping, and iterative development.
-
-## Author
-
-Kiara Bartuccio and Team Violet
