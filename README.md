@@ -8,7 +8,6 @@ A database-backed inventory-management web application developed for **Café Fan
 
 **Application:** [https://cafefantinidb.web.app/](https://cafefantinidb.web.app/)
 
-
 ## Features
 
 - Secure login with separate admin and secretary roles
@@ -21,8 +20,6 @@ A database-backed inventory-management web application developed for **Café Fan
 - Store product details such as name, category, price, quantity, and barcode
 - Track stock updates in the database
 - Responsive, user-friendly interface for daily business use
-
-## User Roles
 
 ### Administrator
 
@@ -66,8 +63,6 @@ The system was designed for a B2B distributor serving hotels, cafés, restaurant
 
 ## Quick Start
 
-The easiest way to test the project is through the [live demo](https://cafefantinidb.web.app/) using the demonstration credentials above.
-
 To work with the source code:
 
 1. Clone or download the repository.
@@ -75,8 +70,6 @@ To work with the source code:
 3. Install any dependencies listed in the project configuration files.
 4. Add your own Firebase configuration and environment values where required.
 5. Run the project using its included development command or local server.
-
-Do not commit private production credentials or secret configuration values to a public repository.
 
 ## What I Worked On
 
